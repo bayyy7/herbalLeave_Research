@@ -11,6 +11,7 @@ Dataset contain 10 class about Herbal Leave :  <br>
 - Pepaya<br>
 - Seledri<br>
 - Sirih<br>
+<br>
 Dataset available from this site https://data.mendeley.com/datasets/s82j8dh4rr <br>
 ## Result & Evaluate
 Training model using M1 GPU (Optimizer='adam', lr=0.001, batch_size=128, epoch=30)<br>
